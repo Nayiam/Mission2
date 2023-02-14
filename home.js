@@ -19,9 +19,9 @@ let images = [
         audio: "audio3.mp3"
     },
     {
-        background: "url(https://media.tenor.com/bipgSavlvTYAAAPo/dorohedoro-noi.mp4)",
+        background: "url(https://media.tenor.com/bipgSavlvTYAAAAC/dorohedoro-noi.gif)",
         audio: "audio4.mp3"
-    }
+    },
 ];
 let currentImage = 0;
 
