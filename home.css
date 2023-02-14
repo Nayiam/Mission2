@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://i.gifer.com/XXx.gif");
+    height: 97vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+audio {
+    display: none;
+  }
+
+.arrow {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 3vw;
+    margin-right: 2%;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  
