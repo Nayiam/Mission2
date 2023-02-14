@@ -18,6 +18,10 @@ let images = [
         background: "url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b403450-b40b-4070-8544-1683626a9cd7/d4tjrk8-566cd60b-58e5-401a-bb21-3ffd69cc8821.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiNDAzNDUwLWI0MGItNDA3MC04NTQ0LTE2ODM2MjZhOWNkN1wvZDR0anJrOC01NjZjZDYwYi01OGU1LTQwMWEtYmIyMS0zZmZkNjljYzg4MjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kHqnBSK2UnRFtoti6QoYItm-8Kfvr3Rba-zsF4OJIog)",
         audio: "audio3.mp3"
     }
+    {
+        background: "url(https://media.tenor.com/bipgSavlvTYAAAPo/dorohedoro-noi.mp4)",
+        audio: "audio4.mp3"
+    }
 ];
 let currentImage = 0;
 
